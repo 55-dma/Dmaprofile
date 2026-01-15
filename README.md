@@ -46,5 +46,11 @@ I’m building a soft, elegant theme using:
 
 ---
 
-### Dmaprofile
+## 🌐 Connect With Me
+You can find me on LinkedIn:
+
+**[linkedin.com/in/dottie-andrews-webdesigner](https://linkedin.com/in/dottie-andrews-webdesigner)**
+
+
+### dedeprofile
 Profile
