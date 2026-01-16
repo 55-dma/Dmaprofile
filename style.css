@@ -9,13 +9,18 @@ body {
     color: pink; /* default text color */
 }
 
-/* Heading style */
+/* Headings style */
 h1 {
     color: #ffb6c1; /* soft light pink */
     margin-top: 40px;
     font-size: 2rem;
     font-weight: 700;
 }
+h3 {
+    color: deepskyblue; /* light blue */
+    margin-top: 20px;
+}
+
 
 /* Paragraph style */
 p {
